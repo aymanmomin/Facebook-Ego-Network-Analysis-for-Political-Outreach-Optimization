@@ -1,5 +1,5 @@
 # **Optimizing Political Outreach via Facebook Ego Network Analysis**  
-**Team**: Ayman Momin 30192494| Steven Zhu | Duren Cheng | **Course**: CPSC 572/672  
+**Author**: Ayman Momin
 
 ---
 
